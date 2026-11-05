@@ -1,0 +1,51 @@
+
+[
+  {
+    "name": "Medical Support Team",
+    "unitType": "Civilian",
+    "cost": 70,
+    "movement": 2
+  },
+  {
+    "name": "Engineering Corps",
+    "unitType": "Civilian",
+    "cost": 85,
+    "movement": 2
+  },
+  {
+    "name": "Logistics Convoy",
+    "unitType": "Civilian",
+    "cost": 90,
+    "movement": 3
+  },
+  {
+    "name": "Disaster Response Team",
+    "unitType": "Civilian",
+    "cost": 100,
+    "movement": 2
+  },
+  {
+    "name": "Search and Rescue Team",
+    "unitType": "Civilian",
+    "cost": 95,
+    "movement": 2
+  },
+  {
+    "name": "Communications Unit",
+    "unitType": "Civilian",
+    "cost": 80,
+    "movement": 2
+  },
+  {
+    "name": "Field Hospital",
+    "unitType": "Civilian",
+    "cost": 120,
+    "movement": 1
+  },
+  {
+    "name": "Supply Depot Team",
+    "unitType": "Civilian",
+    "cost": 110,
+    "movement": 2
+  }
+]
